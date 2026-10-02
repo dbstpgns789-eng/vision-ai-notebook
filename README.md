@@ -1,5 +1,5 @@
 # Vision AI · Hugging Face CLI와 Colab GPU
-
+**실습 결과 제출: [SUBMISSION.md](SUBMISSION.md)** (윤세훈, 2026-09-22 특강 2)
 이 저장소의 실습은 **`hf_colab_gpu/notebooks`의 00·01·02번 세 개**입니다. **모델 다운로드 → GPU 추론 → 우리 물체로 파인튜닝 → 결과 확인** 순서로 진행합니다. 모델 구조는 Transformers로 불러오고, PyTorch로 학습합니다.
 
 **[실습 시작하기 →](hf_colab_gpu/README.md)**
